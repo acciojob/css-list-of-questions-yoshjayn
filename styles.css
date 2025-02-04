@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+/* Styling for the blockquote with class "questions" */
+.questions {
+  background-color: #f8fffe; /* Background color */
+  height: 50px; /* Height of the blockquote */
+  margin-top: 20px; /* Margin at the top */
+  padding: 15px; /* Padding inside the blockquote */
+  max-width: 600px; /* Maximum width of the blockquote */
+  border-left: 8px solid green; /* Left border with thickness and color */
+}
